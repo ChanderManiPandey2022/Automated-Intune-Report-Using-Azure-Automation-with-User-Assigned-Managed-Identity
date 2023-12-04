@@ -1,4 +1,3 @@
-
 #NOTES
 #Script:    Script to used to generate Intune Device Information Report
 #Version:         1.0
