@@ -1,6 +1,5 @@
-﻿﻿ 
-#NOTES
-#Onjuective:      Script to used to Remove Permissio in Managed Identity application
+﻿﻿#NOTES
+#Script:      Script to used to Remove Permissio in Managed Identity application
 #Version:         1.0
 #Author:          Chander Mani Pandey
 #Creation Date:   3 Dec 2023
