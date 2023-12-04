@@ -1,4 +1,3 @@
-﻿﻿ 
 #NOTES
 #Script:      Script to used to Add Permission in Managed Identity application
 #Version:         1.0
